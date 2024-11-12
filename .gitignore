@@ -1,0 +1,5 @@
+# Ignoring Virtual Environment
+myvenv/
+
+# Ignoring SQL Password
+config.py
